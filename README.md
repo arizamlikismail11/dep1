@@ -19,4 +19,4 @@ menghasilkan output sebagai berikut:1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18
 • nilai n diisi pada saat runtime
 • anda bisa menggunakan kombinasi while dan for untuk
 menyelesaikannya,berikut untuk program pembuatan dan hasil nya<p>
-![gambar 4](sreenshot/ss4.PNG)
+![gambar 4](sreenshot/ss6.PNG)
